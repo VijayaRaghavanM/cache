@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# Compile the files
+g++ *.cpp -o cache
+
+# Execute the binary
+./cache
